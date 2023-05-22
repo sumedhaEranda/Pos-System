@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Ceylone_Moter_DB" Class="DbchartcategoryDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-O4D1A34;Initial Catalog=Ceylone_Moter_DB;Integrated Security=True" SettingsObjectName="Sales_and_Inventory_System__Gadgets_Shop_.Properties.Settings" SettingsPropertyName="Ceylone_Moter_DBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.viewcateg" Member="viewcategs">
+    <Type Name="viewcateg">
+      <Column Name="CategoryName" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalQuantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

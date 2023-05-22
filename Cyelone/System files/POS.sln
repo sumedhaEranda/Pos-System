@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS", "POS.csproj", "{B03A3D65-EF0F-44CA-B801-984AEFCB078D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Ceylone Motores Inventory", "..\Ceylone Motores Inventory\Ceylone Motores Inventory.vdproj", "{0D86ABA7-FF96-4598-9F76-880E0500009B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Debug|x86.ActiveCfg = Debug|x86
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Debug|x86.Build.0 = Debug|x86
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Release|x86.ActiveCfg = Release|x86
+		{B03A3D65-EF0F-44CA-B801-984AEFCB078D}.Release|x86.Build.0 = Release|x86
+		{0D86ABA7-FF96-4598-9F76-880E0500009B}.Debug|Any CPU.ActiveCfg = Debug
+		{0D86ABA7-FF96-4598-9F76-880E0500009B}.Debug|x86.ActiveCfg = Debug
+		{0D86ABA7-FF96-4598-9F76-880E0500009B}.Release|Any CPU.ActiveCfg = Release
+		{0D86ABA7-FF96-4598-9F76-880E0500009B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9BB10F-E576-4D38-87BF-8AD8646B59ED}
+	EndGlobalSection
+EndGlobal

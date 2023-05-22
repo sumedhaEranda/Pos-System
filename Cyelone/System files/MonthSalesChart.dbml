@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Ceylone_Moter_DB" Class="MonthSalesChartDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-O4D1A34;Initial Catalog=Ceylone_Moter_DB;Integrated Security=True" SettingsObjectName="Sales_and_Inventory_System__Gadgets_Shop_.Properties.Settings" SettingsPropertyName="Ceylone_Moter_DBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.MonthSalesview" Member="MonthSalesviews">
+    <Type Name="MonthSalesview">
+      <Column Name="MonthName" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="TotalSale" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Total_Due_PymentSales" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

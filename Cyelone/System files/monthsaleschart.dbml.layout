@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MonthSalesChart">
+  <DataContextMoniker Name="/MonthSalesChartDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0c83b517-be2e-4dd4-9ddb-1eea55197985" absoluteBounds="7, 2.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MonthSalesChartDataContext/MonthSalesview" />
+      <nestedChildShapes>
+        <elementListCompartment Id="07fe51d1-a8da-4818-9c02-274670c29eb7" absoluteBounds="7.015, 2.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
